@@ -6,10 +6,6 @@ Just clean generation.
 
 ---
 
-## Live Demo
-https://qrgenerator-liard.vercel.app/
-
----
 
 ## Features
 - Generate QR codes **instantly** as you type
@@ -55,7 +51,6 @@ Your content never leaves your device.
 ## Installation
 ```bash
 # Clone the repo
-git clone https://github.com/berkinyilmaz/qr-generator.git
 
 # Install dependencies
 cd qr-generator
